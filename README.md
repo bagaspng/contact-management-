@@ -1,7 +1,3 @@
-
-
-<img width="1755" height="813" alt="image" src="https://github.com/user-attachments/assets/cd3124c8-7d34-4da5-bd3f-b5c9350c2f61" />
-
 # 📇 Contact Management System
 
 Welcome to the **Contact Management System** repository! This project is written entirely in **PHP** 🐘 and aims to provide a robust, scalable, and easy-to-use solution for managing contacts effectively.
@@ -13,7 +9,7 @@ Welcome to the **Contact Management System** repository! This project is written
 - 🧐 **View Contacts**: Browse through all your contacts seamlessly.
 <img width="1555" height="613" alt="image" src="https://github.com/user-attachments/assets/7c9dcdd3-86d4-4a8f-83e7-676449617609" />
 - 🖊️ **Edit Contacts**: Update the details of existing contacts without hassle.
-<img width="1555" height="613" alt="image" src="https://github.com/user-attachments/assets/7c9dcdd3-86d4-4a8f-83e7-676449617609" />
+<img width="1755" height="813" alt="image" src="https://github.com/user-attachments/assets/cd3124c8-7d34-4da5-bd3f-b5c9350c2f61" />
 
 
 ## 🛠️ Technologies Used
@@ -47,9 +43,10 @@ Run the application on your local server.
 Open your browser and navigate to the project URL.
 Start managing your contacts! 🎉
 
-🙌 Acknowledgements
-📸 Profile Picture by bagaspng
-🚀 Inspiration from modern contact management systems.
+## 👨‍💻 Author
+**bagaspng**
+- GitHub: [@bagaspng](https://github.com/bagaspng)
+
 🔥 Happy Coding! 🔥
 
 Feel free to ⭐ this repo if you find it helpful!
