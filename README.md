@@ -30,5 +30,29 @@ Make sure you have the following installed:
 ### 2️⃣ Installation
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/bagaspng/contact-management-.git
+   ```
+2. Navigate to the project directory:
+   ``` 
+   cd contact-management-
+   ```
+Set up your database and update the configuration file with your database credentials.
+Run the application on your local server.
+
+### 3️⃣ Usage
+Open your browser and navigate to the project URL.
+Start managing your contacts! 🎉
+
+
+💡 Contributions
+Contributions are welcome! Feel free to fork this repo, make your changes, and submit a PR. Let's make this project even better together! 🌍
+
+🙌 Acknowledgements
+📸 Profile Picture by bagaspng
+🚀 Inspiration from modern contact management systems.
+🔥 Happy Coding! 🔥
+
+Feel free to ⭐ this repo if you find it helpful!
+
+Code
